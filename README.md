@@ -6,4 +6,6 @@ Beatshooter is a game made in unity meant to be similiar to Beatsaber, it is a v
       with the targets that you shoot, the player must avoid all grey blocks to avoid losing
   3.End if the player reaches the end of the game or hits a grey block they will come here, the player must shoot the play button to            restart the game
   
+  Known Issues: score doesnt work.
+  
   link to video: https://youtu.be/cSZ9EtxAU00
